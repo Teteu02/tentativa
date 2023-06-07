@@ -1,0 +1,1 @@
+web: gunicorn tentando.wsgi --log-file
